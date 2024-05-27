@@ -64,7 +64,7 @@ if (menu.toLowerCase() === 'desayuno') {
             var costoPrincipal = 3;
             break;
         } else {
-        alert('Opción no válida. Por favor entre Tostadas o Cruisant.');
+        alert('Opción no válida. Por favor entre Tostadas, frutas o Cruisant.');
         }
     }
 
@@ -153,7 +153,7 @@ if (menu.toLowerCase() === 'cena') {
             costoPrincipal = 3;
             break;
         } else {
-        alert('Opción no válida. Por favor entre Tostadas o Cruisant.');
+        alert('Opción no válida. Por favor entre Pasta, pizza o arepas.');
         }
     }
 
