@@ -108,7 +108,7 @@ if (menu.toLowerCase() === 'almuerzo') {
             costoPrincipal = 3;
             break;
         } else {
-        alert('Opción no válida. Por favor entre Tostadas o Cruisant.');
+        alert('Opción no válida. Por favor entre Ternetra, salmon o pollo.');
         }
     }
 
