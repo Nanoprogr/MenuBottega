@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bottega Diner</title>
+</head>
+<body>
+<h1>Bottega Diner</h1>
+<script>
+
 var menu;
 var platoPrincipal = '';
 var acompanamiento = '';
@@ -210,3 +221,6 @@ alert('Has elegido para tu ' + menu + ':\n' + platoPrincipal + ' ............ ' 
 alert('Recomiendanos en tus redes');
 alert('Invita a tus amigos y gana cupones de descuento');
 alert('Disfruta tu comida')
+</script>
+</body>
+</html>
